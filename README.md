@@ -1,2 +1,2 @@
 # JavaScript_code
-Hey !! &lt;/peeps> in this repository i'll upload codes and projects
+Hey !! &lt;/peeps> in this repository i'll upload JavaScript codes and projects
